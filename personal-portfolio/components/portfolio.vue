@@ -2,7 +2,7 @@
     <section id="portfolio" class="min-h-screen flex flex-col items-center justify-center p-8">
         <iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe"
             src="https://heyzine.com/flip-book/c182baee69.html"
-            style="border: 1px solid lightgray; width: 100%; height: 299px;">
+            style="border: 1px solid lightgray; width: 100%; height: 800px;">
         </iframe>
 
         <a href="https://heyzine.com/flip-book/c182baee69.html" target="_blank"
